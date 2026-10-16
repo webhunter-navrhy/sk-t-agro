@@ -1,0 +1,27 @@
+{
+  "slug": "sk-t-agro",
+  "nazev": "T-AGRO SK, s.r.o.",
+  "url": "https://webhunter-navrhy.github.io/sk-t-agro/",
+  "base": "/sk-t-agro/",
+  "lang": "sk",
+  "popis": "T-AGRO SK, Sereď a Koš: náhradné diely pre poľnohospodárske stroje od viac ako 60 výrobcov, predaj techniky a servis priamo u zákazníka.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "harvester.png",
+  "logo": "img/logo.png",
+  "theme_color": "#2fa23a",
+  "typ": "LocalBusiness",
+  "ico": "",
+  "kontakt": {"email": "t-agro@t-agro.sk", "telefon": "", "adresa": {"ulice": "Niklová 3039/59", "psc": "926 01", "mesto": "Sereď", "zeme": "SK"}},
+  "oteviraci_doba": [],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {"endpoint": "", "demo": true, "predmet": "Dopyt z webu t-agro.sk"},
+  "nav": [
+    {"text": "Akcie", "href": "#akcie"},
+    {"text": "Výrobcovia", "href": "#vyrobcovia"},
+    {"text": "Servis", "href": "#servis"},
+    {"text": "O nás", "href": "#o-nas"},
+    {"text": "Kontakt", "href": "#kontakt"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+ "akcie": [
+  {"n": "Rydlo karbid + návar 50 mm", "p": "vhodné pre Väderstad", "f": "rydlo-karbid-navar.jpg"},
+  {"n": "Disk 600 mm", "p": "vhodný pre SIMBA", "f": "disk-600.jpg"},
+  {"n": "Rydlo karbidové", "p": "vhodné pre HORSCH", "f": "rydlo-karbidove.jpg"},
+  {"n": "Maják Beacon LED 12/24 V", "p": "výstražné osvetlenie", "f": "majak-beacon.jpg"},
+  {"n": "Disk Rubin 12", "p": "výrobca FORGES DE NIAUX", "f": "disk-rubin.jpg"}
+ ],
+ "znacky": ["Amazone","Bondioli & Pavesi","Grimme","JF","KUHN","Laverda","Lemken","Mörtl","New Holland","Ostroj","STOLL","Strautmann","Väderstad","Walterscheid","Welger"],
+ "osoby": [
+  {"m": "Ing. Pavol Baco", "r": "", "e": "p.baco@t-agro.sk", "t": "0905 788 692"},
+  {"m": "Mário Ďurina", "r": "", "e": "m.durina@t-agro.sk", "t": "0905 788 693"},
+  {"m": "Ing. Erik Vrták", "r": "Obchodný zástupca", "e": "e.vrtak@t-agro.sk", "t": "0907 574 465"},
+  {"m": "Ing. Tibor Královics", "r": "Obchodný zástupca", "e": "t-agro@t-agro.sk", "t": "0918 423 358"},
+  {"m": "Ing. Peter Birčák", "r": "Obchodný zástupca", "e": "t-agro@t-agro.sk", "t": "0907 709 045"}
+ ]
+}
